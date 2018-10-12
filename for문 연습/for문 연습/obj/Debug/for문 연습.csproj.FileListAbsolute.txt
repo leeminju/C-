@@ -1,0 +1,7 @@
+C:\C#\for문 연습\for문 연습\bin\Debug\for문 연습.exe.config
+C:\C#\for문 연습\for문 연습\bin\Debug\for문 연습.exe
+C:\C#\for문 연습\for문 연습\bin\Debug\for문 연습.pdb
+C:\C#\for문 연습\for문 연습\obj\Debug\for문 연습.csproj.CoreCompileInputs.cache
+C:\C#\for문 연습\for문 연습\obj\Debug\for문 연습.exe
+C:\C#\for문 연습\for문 연습\obj\Debug\for문 연습.pdb
+C:\C#\for문 연습\for문 연습\obj\Debug\for문 연습.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\C#\토큰분리하기\토큰분리하기\bin\Debug\토큰분리하기.exe.config
+C:\C#\토큰분리하기\토큰분리하기\bin\Debug\토큰분리하기.exe
+C:\C#\토큰분리하기\토큰분리하기\bin\Debug\토큰분리하기.pdb
+C:\C#\토큰분리하기\토큰분리하기\obj\Debug\토큰분리하기.csprojAssemblyReference.cache
+C:\C#\토큰분리하기\토큰분리하기\obj\Debug\토큰분리하기.csproj.CoreCompileInputs.cache
+C:\C#\토큰분리하기\토큰분리하기\obj\Debug\토큰분리하기.exe
+C:\C#\토큰분리하기\토큰분리하기\obj\Debug\토큰분리하기.pdb

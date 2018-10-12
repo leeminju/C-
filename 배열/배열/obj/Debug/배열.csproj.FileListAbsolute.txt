@@ -1,0 +1,6 @@
+C:\C#\배열\배열\bin\Debug\배열.exe.config
+C:\C#\배열\배열\bin\Debug\배열.exe
+C:\C#\배열\배열\bin\Debug\배열.pdb
+C:\C#\배열\배열\obj\Debug\배열.csproj.CoreCompileInputs.cache
+C:\C#\배열\배열\obj\Debug\배열.exe
+C:\C#\배열\배열\obj\Debug\배열.pdb

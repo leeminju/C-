@@ -1,0 +1,6 @@
+C:\C#\switch문\switch 문2\bin\Debug\switch 문2.exe.config
+C:\C#\switch문\switch 문2\bin\Debug\switch 문2.exe
+C:\C#\switch문\switch 문2\bin\Debug\switch 문2.pdb
+C:\C#\switch문\switch 문2\obj\Debug\switch 문2.csproj.CoreCompileInputs.cache
+C:\C#\switch문\switch 문2\obj\Debug\switch 문2.exe
+C:\C#\switch문\switch 문2\obj\Debug\switch 문2.pdb

@@ -1,0 +1,6 @@
+C:\C#\주급계산\주급계산\bin\Debug\주급계산.exe.config
+C:\C#\주급계산\주급계산\bin\Debug\주급계산.exe
+C:\C#\주급계산\주급계산\bin\Debug\주급계산.pdb
+C:\C#\주급계산\주급계산\obj\Debug\주급계산.csproj.CoreCompileInputs.cache
+C:\C#\주급계산\주급계산\obj\Debug\주급계산.exe
+C:\C#\주급계산\주급계산\obj\Debug\주급계산.pdb
