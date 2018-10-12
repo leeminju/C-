@@ -1,0 +1,7 @@
+C:\C#\함수의 매개뱐수\함수의 매개뱐수\bin\Debug\함수의 매개뱐수.exe.config
+C:\C#\함수의 매개뱐수\함수의 매개뱐수\bin\Debug\함수의 매개뱐수.exe
+C:\C#\함수의 매개뱐수\함수의 매개뱐수\bin\Debug\함수의 매개뱐수.pdb
+C:\C#\함수의 매개뱐수\함수의 매개뱐수\obj\Debug\함수의 매개뱐수.csproj.CoreCompileInputs.cache
+C:\C#\함수의 매개뱐수\함수의 매개뱐수\obj\Debug\함수의 매개뱐수.exe
+C:\C#\함수의 매개뱐수\함수의 매개뱐수\obj\Debug\함수의 매개뱐수.pdb
+C:\C#\함수의 매개뱐수\함수의 매개뱐수\obj\Debug\함수의 매개뱐수.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\C#\메소드에개체전달하기\메소드에개체전달하기\bin\Debug\메소드에개체전달하기.exe.config
+C:\C#\메소드에개체전달하기\메소드에개체전달하기\bin\Debug\메소드에개체전달하기.exe
+C:\C#\메소드에개체전달하기\메소드에개체전달하기\bin\Debug\메소드에개체전달하기.pdb
+C:\C#\메소드에개체전달하기\메소드에개체전달하기\obj\Debug\메소드에개체전달하기.csprojAssemblyReference.cache
+C:\C#\메소드에개체전달하기\메소드에개체전달하기\obj\Debug\메소드에개체전달하기.csproj.CoreCompileInputs.cache
+C:\C#\메소드에개체전달하기\메소드에개체전달하기\obj\Debug\메소드에개체전달하기.exe
+C:\C#\메소드에개체전달하기\메소드에개체전달하기\obj\Debug\메소드에개체전달하기.pdb

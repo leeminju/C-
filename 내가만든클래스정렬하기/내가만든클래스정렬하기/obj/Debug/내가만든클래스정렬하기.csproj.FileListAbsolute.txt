@@ -1,0 +1,7 @@
+C:\C#\내가만든클래스정렬하기\내가만든클래스정렬하기\bin\Debug\내가만든클래스정렬하기.exe.config
+C:\C#\내가만든클래스정렬하기\내가만든클래스정렬하기\bin\Debug\내가만든클래스정렬하기.exe
+C:\C#\내가만든클래스정렬하기\내가만든클래스정렬하기\bin\Debug\내가만든클래스정렬하기.pdb
+C:\C#\내가만든클래스정렬하기\내가만든클래스정렬하기\obj\Debug\내가만든클래스정렬하기.csprojAssemblyReference.cache
+C:\C#\내가만든클래스정렬하기\내가만든클래스정렬하기\obj\Debug\내가만든클래스정렬하기.csproj.CoreCompileInputs.cache
+C:\C#\내가만든클래스정렬하기\내가만든클래스정렬하기\obj\Debug\내가만든클래스정렬하기.exe
+C:\C#\내가만든클래스정렬하기\내가만든클래스정렬하기\obj\Debug\내가만든클래스정렬하기.pdb

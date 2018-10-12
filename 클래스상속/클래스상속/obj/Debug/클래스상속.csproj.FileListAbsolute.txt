@@ -1,0 +1,7 @@
+C:\C#\클래스상속\클래스상속\bin\Debug\클래스상속.exe.config
+C:\C#\클래스상속\클래스상속\bin\Debug\클래스상속.exe
+C:\C#\클래스상속\클래스상속\bin\Debug\클래스상속.pdb
+C:\C#\클래스상속\클래스상속\obj\Debug\클래스상속.csprojAssemblyReference.cache
+C:\C#\클래스상속\클래스상속\obj\Debug\클래스상속.csproj.CoreCompileInputs.cache
+C:\C#\클래스상속\클래스상속\obj\Debug\클래스상속.exe
+C:\C#\클래스상속\클래스상속\obj\Debug\클래스상속.pdb

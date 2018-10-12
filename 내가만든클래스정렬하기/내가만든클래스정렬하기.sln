@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "내가만든클래스정렬하기", "내가만든클래스정렬하기\내가만든클래스정렬하기.csproj", "{3ABB403D-8FF0-4F7F-969C-D61BE933E20A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABB403D-8FF0-4F7F-969C-D61BE933E20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABB403D-8FF0-4F7F-969C-D61BE933E20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABB403D-8FF0-4F7F-969C-D61BE933E20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABB403D-8FF0-4F7F-969C-D61BE933E20A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FEB614F-A5B8-49F5-ACE9-B19DDEECDD86}
+	EndGlobalSection
+EndGlobal
