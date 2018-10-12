@@ -1,0 +1,7 @@
+C:\C#\Array연습\Array연습\bin\Debug\Array연습.exe.config
+C:\C#\Array연습\Array연습\bin\Debug\Array연습.exe
+C:\C#\Array연습\Array연습\bin\Debug\Array연습.pdb
+C:\C#\Array연습\Array연습\obj\Debug\Array연습.csproj.CoreCompileInputs.cache
+C:\C#\Array연습\Array연습\obj\Debug\Array연습.exe
+C:\C#\Array연습\Array연습\obj\Debug\Array연습.pdb
+C:\C#\Array연습\Array연습\obj\Debug\Array연습.csprojAssemblyReference.cache

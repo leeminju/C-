@@ -1,0 +1,6 @@
+c:\users\edu\source\repos\다차원배열\다차원배열\bin\Debug\다차원배열.exe.config
+c:\users\edu\source\repos\다차원배열\다차원배열\bin\Debug\다차원배열.exe
+c:\users\edu\source\repos\다차원배열\다차원배열\bin\Debug\다차원배열.pdb
+c:\users\edu\source\repos\다차원배열\다차원배열\obj\Debug\다차원배열.csproj.CoreCompileInputs.cache
+c:\users\edu\source\repos\다차원배열\다차원배열\obj\Debug\다차원배열.exe
+c:\users\edu\source\repos\다차원배열\다차원배열\obj\Debug\다차원배열.pdb

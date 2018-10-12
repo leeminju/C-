@@ -1,0 +1,6 @@
+C:\C#\스트링 배열\스트링 배열\bin\Debug\스트링 배열.exe.config
+C:\C#\스트링 배열\스트링 배열\bin\Debug\스트링 배열.exe
+C:\C#\스트링 배열\스트링 배열\bin\Debug\스트링 배열.pdb
+C:\C#\스트링 배열\스트링 배열\obj\Debug\스트링 배열.csproj.CoreCompileInputs.cache
+C:\C#\스트링 배열\스트링 배열\obj\Debug\스트링 배열.exe
+C:\C#\스트링 배열\스트링 배열\obj\Debug\스트링 배열.pdb

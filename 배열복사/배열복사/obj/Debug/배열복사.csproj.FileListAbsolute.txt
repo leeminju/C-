@@ -1,0 +1,6 @@
+C:\C#\배열복사\배열복사\bin\Debug\배열복사.exe.config
+C:\C#\배열복사\배열복사\bin\Debug\배열복사.exe
+C:\C#\배열복사\배열복사\bin\Debug\배열복사.pdb
+C:\C#\배열복사\배열복사\obj\Debug\배열복사.csproj.CoreCompileInputs.cache
+C:\C#\배열복사\배열복사\obj\Debug\배열복사.exe
+C:\C#\배열복사\배열복사\obj\Debug\배열복사.pdb

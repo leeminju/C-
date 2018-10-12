@@ -1,0 +1,7 @@
+C:\C#\if문 연습\if문 연습\bin\Debug\if문 연습.exe.config
+C:\C#\if문 연습\if문 연습\bin\Debug\if문 연습.exe
+C:\C#\if문 연습\if문 연습\bin\Debug\if문 연습.pdb
+C:\C#\if문 연습\if문 연습\obj\Debug\if문 연습.csprojAssemblyReference.cache
+C:\C#\if문 연습\if문 연습\obj\Debug\if문 연습.csproj.CoreCompileInputs.cache
+C:\C#\if문 연습\if문 연습\obj\Debug\if문 연습.exe
+C:\C#\if문 연습\if문 연습\obj\Debug\if문 연습.pdb
