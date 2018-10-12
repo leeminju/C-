@@ -1,0 +1,7 @@
+C:\C#\특성연습\특성연습\obj\Debug\특성연습.csprojAssemblyReference.cache
+C:\C#\특성연습\특성연습\obj\Debug\특성연습.csproj.CoreCompileInputs.cache
+C:\C#\특성연습\특성연습\bin\Debug\특성연습.exe.config
+C:\C#\특성연습\특성연습\bin\Debug\특성연습.exe
+C:\C#\특성연습\특성연습\bin\Debug\특성연습.pdb
+C:\C#\특성연습\특성연습\obj\Debug\특성연습.exe
+C:\C#\특성연습\특성연습\obj\Debug\특성연습.pdb

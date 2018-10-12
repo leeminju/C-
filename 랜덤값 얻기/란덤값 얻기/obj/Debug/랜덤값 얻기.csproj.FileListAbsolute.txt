@@ -1,0 +1,7 @@
+C:\C#\란덤값 얻기\란덤값 얻기\bin\Debug\란덤값 얻기.exe.config
+C:\C#\란덤값 얻기\란덤값 얻기\bin\Debug\란덤값 얻기.exe
+C:\C#\란덤값 얻기\란덤값 얻기\bin\Debug\란덤값 얻기.pdb
+C:\C#\란덤값 얻기\란덤값 얻기\obj\Debug\랜덤값 얻기.csprojAssemblyReference.cache
+C:\C#\란덤값 얻기\란덤값 얻기\obj\Debug\랜덤값 얻기.csproj.CoreCompileInputs.cache
+C:\C#\란덤값 얻기\란덤값 얻기\obj\Debug\란덤값 얻기.exe
+C:\C#\란덤값 얻기\란덤값 얻기\obj\Debug\란덤값 얻기.pdb

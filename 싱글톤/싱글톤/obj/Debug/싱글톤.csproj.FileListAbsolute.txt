@@ -1,0 +1,7 @@
+C:\C#\싱글톤\싱글톤\bin\Debug\싱글톤.exe.config
+C:\C#\싱글톤\싱글톤\bin\Debug\싱글톤.exe
+C:\C#\싱글톤\싱글톤\bin\Debug\싱글톤.pdb
+C:\C#\싱글톤\싱글톤\obj\Debug\싱글톤.csprojAssemblyReference.cache
+C:\C#\싱글톤\싱글톤\obj\Debug\싱글톤.csproj.CoreCompileInputs.cache
+C:\C#\싱글톤\싱글톤\obj\Debug\싱글톤.exe
+C:\C#\싱글톤\싱글톤\obj\Debug\싱글톤.pdb
