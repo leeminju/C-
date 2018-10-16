@@ -1,0 +1,7 @@
+C:\C#\일반화클래스\일반화클래스\bin\Debug\일반화클래스.exe.config
+C:\C#\일반화클래스\일반화클래스\bin\Debug\일반화클래스.exe
+C:\C#\일반화클래스\일반화클래스\bin\Debug\일반화클래스.pdb
+C:\C#\일반화클래스\일반화클래스\obj\Debug\일반화클래스.csprojAssemblyReference.cache
+C:\C#\일반화클래스\일반화클래스\obj\Debug\일반화클래스.csproj.CoreCompileInputs.cache
+C:\C#\일반화클래스\일반화클래스\obj\Debug\일반화클래스.exe
+C:\C#\일반화클래스\일반화클래스\obj\Debug\일반화클래스.pdb

@@ -1,0 +1,7 @@
+C:\C#\자격증\자격증\bin\Debug\자격증.exe.config
+C:\C#\자격증\자격증\bin\Debug\자격증.exe
+C:\C#\자격증\자격증\bin\Debug\자격증.pdb
+C:\C#\자격증\자격증\obj\Debug\자격증.csprojAssemblyReference.cache
+C:\C#\자격증\자격증\obj\Debug\자격증.csproj.CoreCompileInputs.cache
+C:\C#\자격증\자격증\obj\Debug\자격증.exe
+C:\C#\자격증\자격증\obj\Debug\자격증.pdb

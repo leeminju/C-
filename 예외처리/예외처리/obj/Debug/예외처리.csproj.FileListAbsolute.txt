@@ -1,0 +1,7 @@
+C:\C#\예외처리\예외처리\bin\Debug\예외처리.exe.config
+C:\C#\예외처리\예외처리\bin\Debug\예외처리.exe
+C:\C#\예외처리\예외처리\bin\Debug\예외처리.pdb
+C:\C#\예외처리\예외처리\obj\Debug\예외처리.csprojAssemblyReference.cache
+C:\C#\예외처리\예외처리\obj\Debug\예외처리.csproj.CoreCompileInputs.cache
+C:\C#\예외처리\예외처리\obj\Debug\예외처리.exe
+C:\C#\예외처리\예외처리\obj\Debug\예외처리.pdb

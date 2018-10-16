@@ -1,0 +1,7 @@
+C:\Users\edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\edu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\일반화함수.csprojAssemblyReference.cache
+C:\Users\edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\일반화함수.csproj.CoreCompileInputs.cache
+C:\Users\edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\edu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

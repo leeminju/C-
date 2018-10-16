@@ -1,0 +1,7 @@
+C:\C#\주소록\주소록\bin\Debug\주소록.exe.config
+C:\C#\주소록\주소록\bin\Debug\주소록.exe
+C:\C#\주소록\주소록\bin\Debug\주소록.pdb
+C:\C#\주소록\주소록\obj\Debug\주소록.csprojAssemblyReference.cache
+C:\C#\주소록\주소록\obj\Debug\주소록.csproj.CoreCompileInputs.cache
+C:\C#\주소록\주소록\obj\Debug\주소록.exe
+C:\C#\주소록\주소록\obj\Debug\주소록.pdb
